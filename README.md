@@ -2,3 +2,4 @@ I parsed Kolesa.kz site for my project. In the future, I will include my project
 Я запарсил данные с сайта Kolesa.kz для проекта.
 
 
+
